@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MonestersD : MonoBehaviour
+public class MonestersD: MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
